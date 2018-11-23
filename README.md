@@ -2,7 +2,7 @@
 
 I am Mahipal. I am here to Share, Learn and to meet people.
 
-If you reuse, Please give credit by giving the hyper link to the website/post, before or within your post.
+If you reuse content, Please give credit by giving the hyper link to the website/post.
 
 
 ### License
