@@ -1,0 +1,53 @@
+title: App Developement Tutorials.
+description: App Developement Tutorials for Android, iOS, Web.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author
+author-name:    Mahipal
+author-image:   mahipal-reddy.jpg
+author-job:     Hire Me
+author-email:   reach.mahipal.reddy@gmail.com # Add your email for contant form.
+author-twitter: sayaMahi # Add your twitter account
+about-author:   I was an Aerospace Engineer. My current interests are Mobile and Web. I am here to Share my learnings.
+
+# Social settings
+social-twitter:   sayaMahi
+social-facebook:  AndroidCitizen
+social-github:    sayaMahi
+social-pinterest: 
+social-instagram: sayaMahipal
+social-youtube:
+social-vk:   
+social-linkedin:
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Google Analytics
+google-analytics: UA-115157518-1 # Add your identifier. For example UA-99631805-1
+
+# Comment Section (Disqus)
+disqus-identifier: sayamahi # Add your shortname for Disqus Comment. For example mr-brown
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-paginate
+
+paginate: 7
+paginate_path: "/page/:num/"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
