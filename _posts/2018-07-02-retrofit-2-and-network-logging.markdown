@@ -10,24 +10,24 @@ categories: Retrofit-2.0 Android
 
 ## Retrofit 2.0
 
-This is one popular Networking library from <a href="https://square.github.io/retrofit/" target="_blank">Square.</a> It also does support converting your JSON response directly to a Model Object.
+This is one popular Networking library from <a href="http://square.github.io/retrofit/" target="_blank">Square.</a> It also does support converting your JSON response directly to a Model Object.
 
-In this post we shall be using Gson converter. Other converters can be found <a href="https://square.github.io/retrofit/" target="_blank">here.</a>
+In this post we shall be using Gson converter. Other converters can be found <a href="http://square.github.io/retrofit/" target="_blank">here.</a>
 
-If you are new to Gson, you may find details <a href="https://guides.codepath.com/android/leveraging-the-gson-library" target="_blank">here</a> on how to start with.
+If you are new to Gson, you may find details <a href="http://guides.codepath.com/android/leveraging-the-gson-library" target="_blank">here</a> on how to start with.
 
 <form>
-<input style="background:#3366cc; cursor: pointer; color: #fff; border-radius: 3px; border: 1px solid #3366cc;" class='c-btn' type="button" value="Download Code" onclick="window.open('https://github.com/sayaMahi/PopularMovies')" target="_blank" />  &  `git checkout 0162f80`
+<input style="background:#3366cc; cursor: pointer; color: #fff; border-radius: 3px; border: 1px solid #3366cc;" class='c-btn' type="button" value="Download Code" onclick="window.open('http://github.com/sayaMahi/PopularMovies')" target="_blank" />  &  `git checkout 0162f80`
 </form> 
 
 Consider below APIs to GET data: 
-- https://api.themoviedb.org/3/movie/upcoming?api_key=\<api-key-value\>&page=1
-- https://api.themoviedb.org/3/movie/top_rated?api_key=\<api-key-value\>&page=1
-- https://api.themoviedb.org/3/movie/{movie_id}/images?api_key=\<api-key-value\>&page=1
+- http://api.themoviedb.org/3/movie/upcoming?api_key=\<api-key-value\>&page=1
+- http://api.themoviedb.org/3/movie/top_rated?api_key=\<api-key-value\>&page=1
+- http://api.themoviedb.org/3/movie/{movie_id}/images?api_key=\<api-key-value\>&page=1
 
 If we segregate this to different sections,
 
- - Base URL: https://api.themoviedb.org/3/
+ - Base URL: http://api.themoviedb.org/3/
  - Relative path/API End Points: 
     - movie/upcoming, 
     - movie/top_rated, 
@@ -58,7 +58,7 @@ Below are the steps:
 
 public class MovieInterface {
 
-    private final static String MOVIES_BASE_URL = "https://api.themoviedb.org/3/";
+    private final static String MOVIES_BASE_URL = "http://api.themoviedb.org/3/";
     private static Retrofit retrofit;
     private static MovieService movieService;
 
@@ -208,7 +208,7 @@ Different Logging Levels:
 - HEADERS: Logs request, response lines, their respective headers.
 - NONE: No logs.
 
-You may find additional details <a href="https://square.github.io/okhttp/3.x/logging-interceptor/" target="_blank">here</a>.
+You may find additional details <a href="http://square.github.io/okhttp/3.x/logging-interceptor/" target="_blank">here</a>.
 
 But the problem with this library is, all the Logged data gets cluttered on Log Console. Stetho is another library, which handles this very well.
 
@@ -263,7 +263,7 @@ retrofit = new Retrofit.Builder()
 
 {% endhighlight %}  
 
-You may find additional details <a href="https://facebook.github.io/stetho/" target="_blank">here</a> and <a href="https://github.com/facebook/stetho" target="_blank">here</a>
+You may find additional details <a href="http://facebook.github.io/stetho/" target="_blank">here</a> and <a href="http://github.com/facebook/stetho" target="_blank">here</a>
 
 #### Run
 
@@ -298,5 +298,5 @@ References:
 
 [Post 1][link-1]
 [Post 2][link-2]
-[link-1]: https://inthecheesefactory.com/blog/retrofit-2.0/en
-[link-2]: https://guides.codepath.com/android/Consuming-APIs-with-Retrofit
+[link-1]: http://inthecheesefactory.com/blog/retrofit-2.0/en
+[link-2]: http://guides.codepath.com/android/Consuming-APIs-with-Retrofit

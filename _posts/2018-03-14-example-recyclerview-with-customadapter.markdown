@@ -104,7 +104,7 @@ in RecyclerView, LayoutManager will take care of presenting.
 * Create instance of LayoutManager and attach it to RecyclerView.
 ```
 
-Check <a href="https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html" 
+Check <a href="http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html" 
 target="_blank">this</a> to see about RecyclerView class.
 
 **Total Files:**
@@ -131,7 +131,7 @@ target="_blank">this</a> to see about RecyclerView class.
 ![ListViewAndAdapterExample3]({{site.baseurl}}/images/recyclerviewjava.jpg)
 
 
-source code <a href="https://github.com/sayaMahi/RecyclerView-Basic-example" target="_blank">here</a>
+source code <a href="http://github.com/sayaMahi/RecyclerView-Basic-example" target="_blank">here</a>
 
 
 ## activity_main.xml
@@ -159,8 +159,8 @@ else Adapter might show error while calculating the required height dp value for
 
 {% highlight XML %}
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="https://schemas.android.com/apk/res/android"
-    xmlns:tools="https://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="horizontal"
     android:layout_width="wrap_parent"
     android:layout_height="wrap_parent">
@@ -204,9 +204,9 @@ else Adapter might show error while calculating the required height dp value for
 {% highlight XML %}
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.v7.widget.RecyclerView 
-    xmlns:android="https://schemas.android.com/apk/res/android"
-    xmlns:app="https://schemas.android.com/apk/res-auto"
-    xmlns:tools="https://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/recycleview2"
     android:background="#FFFFFF"
     android:layout_width="match_parent"
@@ -318,6 +318,6 @@ public class DataAdapter
 References: Udacity, Android Developer Document, Code Path, StackOverflow.
 
 
-[adapterbasic-1]: https://www.androidcitizen.com/listview-with-arrayadapter/
-[adapterbasic-2]: https://www.androidcitizen.com/example-listview-with-customadapter/
-[arraydapterapi-1]: https://developer.android.com/reference/android/widget/ArrayAdapter.html
+[adapterbasic-1]: http://www.androidcitizen.com/listview-with-arrayadapter/
+[adapterbasic-2]: http://www.androidcitizen.com/example-listview-with-customadapter/
+[arraydapterapi-1]: http://developer.android.com/reference/android/widget/ArrayAdapter.html

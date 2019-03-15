@@ -65,6 +65,6 @@ If you need to access api-key in any Resources use *@string/api_key*
 
 Below are the few References which discuss various ways:
 
-- <a href="https://guides.codepath.com/android/Storing-Secret-Keys-in-Android" target="_blank">Post 1</a>
-- <a href="https://www.techjini.com/blog/securing-api-key-and-secret-key-in-android/" target="_blank">Post 2</a>
-- <a href="https://www.androidauthority.com/how-to-hide-your-api-key-in-android-600583/" target="_blank">Post 3</a>
+- <a href="http://guides.codepath.com/android/Storing-Secret-Keys-in-Android" target="_blank">Post 1</a>
+- <a href="http://www.techjini.com/blog/securing-api-key-and-secret-key-in-android/" target="_blank">Post 2</a>
+- <a href="http://www.androidauthority.com/how-to-hide-your-api-key-in-android-600583/" target="_blank">Post 3</a>

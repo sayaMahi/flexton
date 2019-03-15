@@ -64,5 +64,5 @@ Below image explains how this works.
 
 References: Udacity, Android Developer Document, Code Path, StackOverflow.
 
-[Example-1]: https://www.androidcitizen.com/example-listview-with-arrayadapter/
+[Example-1]: http://www.androidcitizen.com/example-listview-with-arrayadapter/
 

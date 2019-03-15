@@ -12,7 +12,7 @@ Part 1: (This post) Discussess about What is SharedPreference, How to build the 
 [Part 2][preferencebasic-2] : Discussess about Reading/Writing data from SharedPreference File.
 
 <form>
-<input style="background:#3366cc; cursor: pointer; color: #fff; border-radius: 3px; border: 1px solid #3366cc;" class='c-btn' type="button" value="Download Code" onclick="window.open('https://github.com/sayaMahi/SharedPreferenceExample')" target="_blank" />
+<input style="background:#3366cc; cursor: pointer; color: #fff; border-radius: 3px; border: 1px solid #3366cc;" class='c-btn' type="button" value="Download Code" onclick="window.open('http://github.com/sayaMahi/SharedPreferenceExample')" target="_blank" />
 </form>
 
 Shared Preferences are basically Settings that User sets either on Phone or App. So these settings should remain unchanged, even on Phone reboots, untill User changes it. These changes can be a Switch toggle, a Checkbox selection, display of Text on Lock Screen, a Ringtone selection (from a List) etc.
@@ -136,7 +136,7 @@ public class SettingsFragment extends PreferenceFragmentCompat
 {% highlight XML %}
 <?xml version="1.0" encoding="utf-8"?>
 <fragment
-    xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/settings_fragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -155,6 +155,6 @@ Hope this post helped.
 If this post helped or have queries please leave ur comments and share.
 
 [preferencebasic-1]: https//www.androidcitizen.com/shared-preferences-part-1/
-[preferencebasic-2]: https://www.androidcitizen.com/shared-preferences-part-2/
-[SharedPreferences-Code]: https://github.com/sayaMahi/SharedPreferenceExample
+[preferencebasic-2]: http://www.androidcitizen.com/shared-preferences-part-2/
+[SharedPreferences-Code]: http://github.com/sayaMahi/SharedPreferenceExample
 

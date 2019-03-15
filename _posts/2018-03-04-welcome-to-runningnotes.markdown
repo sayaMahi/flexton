@@ -44,15 +44,15 @@ I am here to make friends too. So, dont forget to Say "Hi"
 
 ### Contact
 
-twitter  :   <a href="https://www.twitter.com/sayaMahi" target="_blank">@sayaMahi</a>
+twitter  :   <a href="http://www.twitter.com/sayaMahi" target="_blank">@sayaMahi</a>
 
-instagram: <a href="https://www.instagram.com/sayamahipal" target="_blank">@sayamahipal</a>
+instagram: <a href="http://www.instagram.com/sayamahipal" target="_blank">@sayamahipal</a>
 
-facebook :  <a href="https://www.facebook.com/mahipalonline" target="_blank">/mahipalonline</a>
+facebook :  <a href="http://www.facebook.com/mahipalonline" target="_blank">/mahipalonline</a>
 
 ### Credits
 
-This blog is powered by Jekyll. Theme that i am using is <a href="https://github.com/artemsheludko/flexible-jekyll" target="_blank">Flexible Jekyll.</a>
+This blog is powered by Jekyll. Theme that i am using is <a href="http://github.com/artemsheludko/flexible-jekyll" target="_blank">Flexible Jekyll.</a>
 
 Please do not copy the content/assets. If you would like to re-use, do ask for a prior permission.
 

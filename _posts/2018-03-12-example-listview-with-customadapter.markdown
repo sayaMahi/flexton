@@ -37,7 +37,7 @@ Additional changes from the previous example are.
 
 * one image file (image.png) at res/drawabales.
 
-Check <a href="https://developer.android.com/reference/android/widget/ArrayAdapter.html" target="_blank">this</a> to see about ArrayAdapter class.
+Check <a href="http://developer.android.com/reference/android/widget/ArrayAdapter.html" target="_blank">this</a> to see about ArrayAdapter class.
 
 Total Files:
 
@@ -87,8 +87,8 @@ height is hardcoded, only to tell its important to have fixed height value. else
 
 {% highlight XML %}
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="https://schemas.android.com/apk/res/android"
-    xmlns:tools="https://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -313,6 +313,6 @@ public class DataAdapter extends ArrayAdapter<DataModel> {
 References: Udacity, Android Developer Document, Code Path, StackOverflow.
 
 
-[adapterbasic-1]: https://www.androidcitizen.com/listview-with-arrayadapter/
-[adapterbasic-2]: https://www.androidcitizen.com/example-listview-with-arrayadapter/
-[arraydapterapi-1]: https://developer.android.com/reference/android/widget/ArrayAdapter.html
+[adapterbasic-1]: http://www.androidcitizen.com/listview-with-arrayadapter/
+[adapterbasic-2]: http://www.androidcitizen.com/example-listview-with-arrayadapter/
+[arraydapterapi-1]: http://developer.android.com/reference/android/widget/ArrayAdapter.html

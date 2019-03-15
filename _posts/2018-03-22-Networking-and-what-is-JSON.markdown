@@ -29,7 +29,7 @@ updated to UI of your application (Like Twitter/fb)
 Entering/Quering "google io" in youtube search bar, is same as forming 
 the below link with Query information.
 
-https://www.youtube.com/results?search_query=google+io
+http://www.youtube.com/results?search_query=google+io
 
 `https:` is Protocol/Scheme.
 
@@ -45,7 +45,7 @@ Here in this link, Key is search_query; Value is Google+io.
 
 Similary, Read this link. It has 2 Key-Value pairs.
 
-https://api.github.com/search/repositories?q=android&sort=stars
+http://api.github.com/search/repositories?q=android&sort=stars
 
 Enter the link and see the response you get. Use JSON Formatter online, 
 to see the response in a cleaner way. Like JSON Pretty print, 
@@ -81,7 +81,7 @@ Steps involved are:
   **Form URL**
 
 {% highlight JAVA %}
-final static String GITHUB_BASE_URL = "https://api.github.com/search/"
+final static String GITHUB_BASE_URL = "http://api.github.com/search/"
 final static String PARAM_QUERY = "q";
 final static String PARAM_SORT = "sort";
 final static String sortBy = "stars";
@@ -212,9 +212,9 @@ Other Way:
 
 {% endhighlight %}
 
-Check <a href="https://stackoverflow.com/questions/8798403/string-is-immutable-what-exactly-is-the-meaning" target="_blank">this</a> link for  comparision between String/StringBuilder.
+Check <a href="http://stackoverflow.com/questions/8798403/string-is-immutable-what-exactly-is-the-meaning" target="_blank">this</a> link for  comparision between String/StringBuilder.
 
-Check <a href="https://www.davismol.net/2015/05/07/bufferedreader-and-fileinputstream-vs-scanner-performance-comparison-in-reading-and-parsing-a-200k-lines-text-file/" target="_blank">this</a> link for performance comparision between Scanner/BufferedReader.
+Check <a href="http://www.davismol.net/2015/05/07/bufferedreader-and-fileinputstream-vs-scanner-performance-comparison-in-reading-and-parsing-a-200k-lines-text-file/" target="_blank">this</a> link for performance comparision between Scanner/BufferedReader.
 
 ## JSON - Java Script Object Notation.
 

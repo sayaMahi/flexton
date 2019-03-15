@@ -78,7 +78,7 @@ Android provides few Classes to achive this.
 
 ## AsyncTask ? When to Use ?
 
-<a href="https://developer.android.com/reference/android/os/AsyncTask.html" target="_blank">AsyncTask</a> is not a Thread but a special Class where it should ideablly be used for short operations (few seconds). 
+<a href="http://developer.android.com/reference/android/os/AsyncTask.html" target="_blank">AsyncTask</a> is not a Thread but a special Class where it should ideablly be used for short operations (few seconds). 
 
 It allows you to perform background operations.
 

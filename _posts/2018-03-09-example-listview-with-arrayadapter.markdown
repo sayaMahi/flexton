@@ -45,9 +45,9 @@ styles.xml which you could segregate. I will not be covering this.
 
 {% highlight XML %}
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="https://schemas.android.com/apk/res/android"
-    xmlns:app="https://schemas.android.com/apk/res-auto"
-    xmlns:tools="https://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFF7DA"
@@ -233,6 +233,6 @@ Check [this][adapterbasic-2] link for Creating Custom Adapter Example.
 References: Udacity, Android Developer Document, Code Path, StackOverflow.
 
 
-[adapterbasic-1]: https://www.androidcitizen.com/listview-with-arrayadapter/
+[adapterbasic-1]: http://www.androidcitizen.com/listview-with-arrayadapter/
 
-[adapterbasic-2]: https://www.androidcitizen.com/example-listview-with-customadapter/
+[adapterbasic-2]: http://www.androidcitizen.com/example-listview-with-customadapter/

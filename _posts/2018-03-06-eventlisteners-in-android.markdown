@@ -147,9 +147,9 @@ When to use Code: If you use Fragments. If a View has to call for different func
 
 When to use XML: If you do not re-use the View(s) for more than one behaviour. 
 
-Other difference is explained <a href="https://stackoverflow.com/questions/8977212/button-click-listeners-in-android" target="_blank">here</a> 
+Other difference is explained <a href="http://stackoverflow.com/questions/8977212/button-click-listeners-in-android" target="_blank">here</a> 
 
-Usage of Class<?> can be found <a href="https://stackoverflow.com/questions/9921676/what-does-class-mean-in-java" target="_blank">here</a> 
+Usage of Class<?> can be found <a href="http://stackoverflow.com/questions/9921676/what-does-class-mean-in-java" target="_blank">here</a> 
 
 References: Udacity, Android Developer Document, Code Path, StackOverflow.
 

@@ -10,7 +10,7 @@ tags: [Android Tutorials, Shared Preferences]
 This is in continuation to [Part 1][preferencebasic-1]
 
 <form>
-<input style="background:#3366cc; cursor: pointer; color: #fff; border-radius: 3px; border: 1px solid #3366cc;" class='c-btn' type="button" value="Download Code" onclick="window.open('https://github.com/sayaMahi/SharedPreferenceExample')" target="_blank" />
+<input style="background:#3366cc; cursor: pointer; color: #fff; border-radius: 3px; border: 1px solid #3366cc;" class='c-btn' type="button" value="Download Code" onclick="window.open('http://github.com/sayaMahi/SharedPreferenceExample')" target="_blank" />
 </form>
 
 In this post, we shall be working on already created Default Shared Preferences File.
@@ -161,6 +161,6 @@ implements SharedPreferences.OnSharedPreferenceChangeListener,
 
 If this post helped or have queries please leave ur comments and share.
 
-[preferencebasic-1]: https://www.androidcitizen.com/shared-preferences-part-1/
-[SharedPreferences-3]: https://developer.android.com/reference/android/content/SharedPreferences
-[SharedPreferences-Code]: https://github.com/sayaMahi/SharedPreferenceExample
+[preferencebasic-1]: http://www.androidcitizen.com/shared-preferences-part-1/
+[SharedPreferences-3]: http://developer.android.com/reference/android/content/SharedPreferences
+[SharedPreferences-Code]: http://github.com/sayaMahi/SharedPreferenceExample

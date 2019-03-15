@@ -54,7 +54,7 @@ For Example, Contacts app, where the use sees only whats necessary from a pile o
 
 To do it in an efficient way, check [ListView With ArrayAdapters][listview-arrayadapter].
 
-[listview-arrayadapter]: https://www.androidcitizen.com/listview-with-arrayadapter/
+[listview-arrayadapter]: http://www.androidcitizen.com/listview-with-arrayadapter/
 
 References: Udacity, Android Developer Document, Code Path, StackOverflow.
 

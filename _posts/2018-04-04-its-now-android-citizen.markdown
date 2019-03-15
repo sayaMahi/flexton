@@ -12,7 +12,7 @@ tags: [Android Tutorials]
 
 With more focus on the platform, i am moving to www.androidcitizen.com, 
 
-Please follow https://www.facebook.com/AndroidCitizen/ for updates.
+Please follow http://www.facebook.com/AndroidCitizen/ for updates.
 
 Thanks,
 Mahi 

@@ -8,4 +8,4 @@ If you reuse content, Please give credit by giving the hyper link to the website
 ### License
 Theme that i am using is [Flexton] which is under MIT
 
-[Flexton]: https://github.com/artemsheludko/flexton/blob/master/LICENSE.txt
+[Flexton]: http://github.com/artemsheludko/flexton/blob/master/LICENSE.txt
