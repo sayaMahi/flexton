@@ -159,8 +159,8 @@ else Adapter might show error while calculating the required height dp value for
 
 {% highlight XML %}
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:tools="https://schemas.android.com/tools"
     android:orientation="horizontal"
     android:layout_width="wrap_parent"
     android:layout_height="wrap_parent">
@@ -204,9 +204,9 @@ else Adapter might show error while calculating the required height dp value for
 {% highlight XML %}
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.v7.widget.RecyclerView 
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:app="https://schemas.android.com/apk/res-auto"
+    xmlns:tools="https://schemas.android.com/tools"
     android:id="@+id/recycleview2"
     android:background="#FFFFFF"
     android:layout_width="match_parent"

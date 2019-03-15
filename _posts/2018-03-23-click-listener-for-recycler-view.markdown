@@ -11,7 +11,7 @@ RecyclerView `Do Not` have `setOnItemClickListener`, like ListView/View does.
 
 This can be achieved by using Interface.
 
-This post is incontinuation to this <a href="http://runningnotes.info/example-recyclerview-with-customadapter/" target="_blank">RecyclerView Example</a>. 
+This post is incontinuation to this <a href="https://runningnotes.info/example-recyclerview-with-customadapter/" target="_blank">RecyclerView Example</a>. 
 
 Before starting any further, Lets have a recap of Interface.
 
@@ -32,12 +32,12 @@ Assigning an Implementing Class Object to Interface Variable will be used in thi
 
 ## Steps Overview
 
-If you look at this <a href="http://runningnotes.info/eventlisteners-in-android/" target="_blank">Click Listener Example</a>, steps involved to create Click Listener are,
+If you look at this <a href="https://runningnotes.info/eventlisteners-in-android/" target="_blank">Click Listener Example</a>, steps involved to create Click Listener are,
 
 1. Implementation of View.OnClickListener 
 2. viewItem.setOnClickListener(Object);
 
-Below example is in continuation to RecyclerView Example, so have a look at this <a href="http://runningnotes.info/example-recyclerview-with-customadapter/" target="_blank">RecyclerView Example</a>.
+Below example is in continuation to RecyclerView Example, so have a look at this <a href="https://runningnotes.info/example-recyclerview-with-customadapter/" target="_blank">RecyclerView Example</a>.
 
 Here, we start with Creating an Interface and an abstract Method.
 

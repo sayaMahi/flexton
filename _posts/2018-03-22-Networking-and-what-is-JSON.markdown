@@ -214,7 +214,7 @@ Other Way:
 
 Check <a href="https://stackoverflow.com/questions/8798403/string-is-immutable-what-exactly-is-the-meaning" target="_blank">this</a> link for  comparision between String/StringBuilder.
 
-Check <a href="http://www.davismol.net/2015/05/07/bufferedreader-and-fileinputstream-vs-scanner-performance-comparison-in-reading-and-parsing-a-200k-lines-text-file/" target="_blank">this</a> link for performance comparision between Scanner/BufferedReader.
+Check <a href="https://www.davismol.net/2015/05/07/bufferedreader-and-fileinputstream-vs-scanner-performance-comparison-in-reading-and-parsing-a-200k-lines-text-file/" target="_blank">this</a> link for performance comparision between Scanner/BufferedReader.
 
 ## JSON - Java Script Object Notation.
 

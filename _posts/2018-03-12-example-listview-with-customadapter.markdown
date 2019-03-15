@@ -87,8 +87,8 @@ height is hardcoded, only to tell its important to have fixed height value. else
 
 {% highlight XML %}
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:tools="https://schemas.android.com/tools"
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent">

@@ -208,7 +208,7 @@ Different Logging Levels:
 - HEADERS: Logs request, response lines, their respective headers.
 - NONE: No logs.
 
-You may find additional details <a href="http://square.github.io/okhttp/3.x/logging-interceptor/" target="_blank">here</a>.
+You may find additional details <a href="https://square.github.io/okhttp/3.x/logging-interceptor/" target="_blank">here</a>.
 
 But the problem with this library is, all the Logged data gets cluttered on Log Console. Stetho is another library, which handles this very well.
 
@@ -263,7 +263,7 @@ retrofit = new Retrofit.Builder()
 
 {% endhighlight %}  
 
-You may find additional details <a href="http://facebook.github.io/stetho/" target="_blank">here</a> and <a href="https://github.com/facebook/stetho" target="_blank">here</a>
+You may find additional details <a href="https://facebook.github.io/stetho/" target="_blank">here</a> and <a href="https://github.com/facebook/stetho" target="_blank">here</a>
 
 #### Run
 

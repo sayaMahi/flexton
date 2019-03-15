@@ -1,12 +1,12 @@
 title: App Developement Tutorials.
 description: App Developement Tutorials for Android, iOS, Web.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Author
 author-name:    Mahipal
 author-image:   mahipal-reddy.jpg
-author-job:     Hire Me
+author-job:     
 author-email:   reach.mahipal.reddy@gmail.com # Add your email for contant form.
 author-twitter: sayaMahi # Add your twitter account
 about-author:   I was an Aerospace Engineer. My current interests are Mobile and Web. I am here to Share my learnings.

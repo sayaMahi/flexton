@@ -44,7 +44,7 @@ I am here to make friends too. So, dont forget to Say "Hi"
 
 ### Contact
 
-twitter  :   <a href="http://www.twitter.com/sayaMahi" target="_blank">@sayaMahi</a>
+twitter  :   <a href="https://www.twitter.com/sayaMahi" target="_blank">@sayaMahi</a>
 
 instagram: <a href="https://www.instagram.com/sayamahipal" target="_blank">@sayamahipal</a>
 
